@@ -1,3 +1,3 @@
-a+b=C
-c+d=E
-e+f=G
+a+b=X
+c+d=Y
+e+f=Z
